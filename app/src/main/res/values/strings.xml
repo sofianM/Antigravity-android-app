@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Antigravity</string>
+    <string name="notification_channel_activity">Antigravity meldingen</string>
+    <string name="notification_channel_activity_desc">Meldingen wanneer een taak klaar is of bij nieuwe web-activiteit</string>
+    <string name="notification_channel_watcher">Achtergrond-bewaking</string>
+    <string name="notification_channel_watcher_desc">Houdt actieve web-sessies beschikbaar voor directe meldingen</string>
+</resources>
